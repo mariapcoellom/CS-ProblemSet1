@@ -1,5 +1,7 @@
 package edu.monmouth.problemSet1;
 
+import edu.monmouth.campusvehicle.CampusVehicle;
+
 public class ProblemSet1 {
 		 	 
 	public static void main(String[] args) {
